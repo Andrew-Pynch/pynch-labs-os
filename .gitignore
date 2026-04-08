@@ -1,0 +1,3 @@
+# VM disk images and OVMF vars (large binary files, not for git)
+*.qcow2
+*_OVMF_VARS.fd
